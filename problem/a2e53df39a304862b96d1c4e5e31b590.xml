@@ -1,0 +1,33 @@
+<problem display_name="Multiple Choice" markdown="Q.&#9;ECB stands for&#10;&#10;( )   Electronic cipher Block&#10;( )   Electronic code Block&#10;( )   Electronic code Book&#10;( )   Electronic cipher Book&#10;&#10;Q.  Which among the following is not CPA secure?&#10;&#10;( )   ECB&#10;( )   CBC&#10;( )   CFB&#10;( )   None&#10;&#10;Q.  Which of the following are block ciphers?&#10;&#10;( )   ECB&#10;( )   CBC&#10;( )   CFB&#10;( )   All&#10;">
+<p>Q.	ECB stands for</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Electronic cipher Block</choice>
+    <choice correct="false">Electronic code Block</choice>
+    <choice correct="false">Electronic code Book</choice>
+    <choice correct="false">Electronic cipher Book</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q.  Which among the following is not CPA secure?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">ECB</choice>
+    <choice correct="false">CBC</choice>
+    <choice correct="false">CFB</choice>
+    <choice correct="false">None</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q.  Which of the following are block ciphers?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">ECB</choice>
+    <choice correct="false">CBC</choice>
+    <choice correct="false">CFB</choice>
+    <choice correct="false">All</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

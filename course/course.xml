@@ -1,4 +1,4 @@
-<course advertised_start="Anytime" display_name="Cryptography Lab" instructor_info="{&quot;instructors&quot;: []}" learning_info="[]">
+<course advertised_start="Anytime" course_image="IIITH-Cryptography.jpg" display_name="Cryptography" instructor_info="{&quot;instructors&quot;: []}" language="en" learning_info="[]" start="&quot;2016-09-29T00:00:00+00:00&quot;">
   <chapter url_name="Introduction"/>
   <chapter url_name="__Breaking_the_Shift_Cipher_"/>
   <chapter url_name="_Breaking_the_Mono-alphabetic_Substitution_Cipher_"/>
@@ -10,5 +10,6 @@
   <chapter url_name="_Diffie-Hellman_Key_Establishment_"/>
   <chapter url_name="__Public-Key_Cryptosystems"/>
   <chapter url_name="_Digital_Signatures_"/>
+  <chapter url_name="bcf9f505db504387a832df5f2e1025e1"/>
   <wiki slug="IIITH.bsa.Anytime"/>
 </course>
