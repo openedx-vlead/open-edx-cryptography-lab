@@ -1,0 +1,26 @@
+{
+    "IIITH-Cryptography.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CSE29", 
+            "name": "IIITH-Cryptography.jpg", 
+            "org": "IIIT-Hyderabad", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "IIITH-Cryptography.jpg", 
+        "filename": "asset-v1:IIIT-Hyderabad+CSE29+Anytime+type@asset+block@IIITH-Cryptography.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-Hyderabad", 
+            "CSE29", 
+            "thumbnail", 
+            "IIITH-Cryptography.jpg", 
+            null
+        ]
+    }
+}

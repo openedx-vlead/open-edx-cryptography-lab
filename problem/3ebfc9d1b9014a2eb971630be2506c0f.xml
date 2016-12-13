@@ -1,0 +1,44 @@
+<problem display_name="Multiple Choice" markdown="Q.&#9;Which criterion ensures that we can’t find two messages that hash to the same digest?&#10;&#10;( )  One-wayness&#10;( )  Weak-collision-resistance&#10;( )  Strong-collision-resistance&#10;( )  None&#10;&#10;Q.  Which criterion Ensures that it must be extremely difficult or impossible to create &#9;the message if the message digest is given.&#10;( )  One-wayness&#10;( )  Weak-collision-resistance&#10;( )  Strong-collision resistance&#10;( )  None&#10;&#10;Q.  Consider the function h: {0,1}8 -&gt; {0,1}4. Suppose h(x) = x xmod 5 mod 16, x in &#10;&#9;[0, 255]. The collision in h occurs for.&#10;&#10;( )  (1, 17)&#10;( )  (2, 16)&#10;( )  (1, 16)&#10;( )  (2, 17)&#10;&#10;Q.  The Merkle-Damgard Transform is mainly useful for&#10;&#10;( )   Converting any fixed-length collision resistant hash function to an arbitrary &#9;&#9;  length collision resistant hash function&#10;( )   Converting arbitrary length hash function to a fixed length hash function&#10;( )   Constructing hash function from random function&#10;( )   None&#10;">
+<p>Q.	Which criterion ensures that we can’t find two messages that hash to the same digest?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">One-wayness</choice>
+    <choice correct="false">Weak-collision-resistance</choice>
+    <choice correct="false">Strong-collision-resistance</choice>
+    <choice correct="false">None</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q.  Which criterion Ensures that it must be extremely difficult or impossible to create 	the message if the message digest is given.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">One-wayness</choice>
+    <choice correct="false">Weak-collision-resistance</choice>
+    <choice correct="false">Strong-collision resistance</choice>
+    <choice correct="false">None</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q.  Consider the function h: {0,1}8 -&gt; {0,1}4. Suppose h(x) = x xmod 5 mod 16, x in </p>
+<p>	[0, 255]. The collision in h occurs for.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">(1, 17)</choice>
+    <choice correct="false">(2, 16)</choice>
+    <choice correct="false">(1, 16)</choice>
+    <choice correct="false">(2, 17)</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>Q.  The Merkle-Damgard Transform is mainly useful for</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Converting any fixed-length collision resistant hash function to an arbitrary 		  length collision resistant hash function</choice>
+    <choice correct="false">Converting arbitrary length hash function to a fixed length hash function</choice>
+    <choice correct="false">Constructing hash function from random function</choice>
+    <choice correct="false">None</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
