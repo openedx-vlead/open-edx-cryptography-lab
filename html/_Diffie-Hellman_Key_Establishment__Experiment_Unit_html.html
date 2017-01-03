@@ -1,0 +1,74 @@
+<div class="content" id="experiment-article-section-1-content"><form name="stuff">
+<p>Public Information:</p>
+<br />
+<p>Prime Number:</p>
+<p><input id="prime" readonly="readonly" size="20" type="text" value="" /> <input onclick="nextPrime();" type="button" value="Generate Prime" /></p>
+<br />
+<p>Generator G:</p>
+<p><input id="generator" readonly="readonly" size="20" type="text" value="" /> <input onclick="nextGenerator();" type="button" value="Another Generator" /></p>
+<br />
+<table style="float: left;">
+<tbody>
+<tr>
+<td><center><span color="red" style="color: red;">Alice</span></center></td>
+</tr>
+<tr>
+<td valign="top">Key: <input id="keyA" readonly="readonly" size="20" type="text" value="" /> <input onclick="nextKeyA();" type="button" value="Generate A" /></td>
+</tr>
+<tr>
+<td><input id="encryptA" readonly="readonly" size="20" type="text" value="" /> <input onclick="calculateGA();" type="button" value="Calculate Ga" /></td>
+</tr>
+<tr>
+<td><input onclick="sendA();" type="button" value="Send Ga to B" /></td>
+</tr>
+<tr>
+<td>Received: <input id="receivedA" readonly="readonly" size="20" type="text" value="" /></td>
+</tr>
+<tr>
+<td><input onclick="calculateGAB();" type="button" value="Calculate Gab" /> <input id="encryptAB" readonly="readonly" size="20" type="text" value="" /></td>
+</tr>
+</tbody>
+</table>
+<table style="float: right;">
+<tbody>
+<tr>
+<td><center><span color="red" style="color: red;">Bob</span></center></td>
+</tr>
+<tr>
+<td valign="top">Key: <input id="keyB" readonly="readonly" size="20" type="text" value="" /> <input onclick="nextKeyB();" type="button" value="Generate B" /></td>
+</tr>
+<tr>
+<td><input id="encryptB" readonly="readonly" size="20" type="text" value="" /> <input onclick="calculateGB();" type="button" value="Calculate Gb" /></td>
+</tr>
+<tr>
+<td><input onclick="sendB();" type="button" value="Send Gb to A" /></td>
+</tr>
+<tr>
+<td>Received: <input id="receivedB" readonly="readonly" size="20" type="text" value="" /></td>
+</tr>
+<tr>
+<td><input onclick="calculateGBA();" type="button" value="Calculate Gba" /> <input id="encryptBA" readonly="readonly" size="20" type="text" value="" /></td>
+</tr>
+</tbody>
+</table>
+<p style="clear: both;"></p>
+</form></div>
+<script>// <![CDATA[
+// ****** ALSO MODIFY THE URLS GIVEN ABOVE **************
+// ********MODIFY THIS SECTION **************************
+
+var lab_id = "CSE29"; 
+var exp_name = "M Diffie-Hellman Key Establishment"
+var lab_name = "Cryptography Lab"
+var user_id = "%%USER_ID%%"; //get the User ID as a string  
+var exp_id = "E99783"
+
+var server_url = "http://analytics-api.vlabs.ac.in/"
+
+var xhttp = new XMLHttpRequest();
+var urlstr = server_url + user_id + "," + lab_id + "," + lab_name + "," + exp_id + "," + exp_name
+xhttp.open("GET", urlstr, true);
+xhttp.send();
+
+// *******DO NOT MODIFY THIS SECTION AGAIN ************
+// ]]></script>
