@@ -1,0 +1,38 @@
+<problem display_name="Multiple Choice" markdown="Q1. When the following translation matrix is applied to point (10,10,10), it becomes&#10;( ) (5,7,4)&#10;( ) (15,7,16)&#10;( ) (15,7,4)&#10;( ) (15,13,16)&#10;&#10;Q2. If the point (-10,14,20) is translated according to the vector (-10,2,8), it becomes&#10;( ) (-20,16,28)&#10;( ) (0,16,28)&#10;( ) (0,16,12)&#10;( ) (-20,16,12)&#10;&#10;Q3. Identify the translation vector v which transforms point A (1,1,5) to point B (-11,13,-7).&#10;( ) (12,-12,12)&#10;( ) (-12,12,12)&#10;( ) (-12,12,-12)&#10;( ) (-12,-12,-12)&#10;&#10;Q4. If the Origin is at (0,0,0) then a translation of (2,5,-4) translates the origin to:&#10;( ) (2,5,-4)&#10;( ) (2,5,4)&#10;( ) (-2,5,4)&#10;( ) (-2,-5,4)&#10;&#10;">
+  <p>Q1. When the following translation matrix is applied to point (10,10,10), it becomes</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">(5,7,4)</choice>
+      <choice correct="false">(15,7,16)</choice>
+      <choice correct="false">(15,7,4)</choice>
+      <choice correct="false">(15,13,16)</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q2. If the point (-10,14,20) is translated according to the vector (-10,2,8), it becomes</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">(-20,16,28)</choice>
+      <choice correct="false">(0,16,28)</choice>
+      <choice correct="false">(0,16,12)</choice>
+      <choice correct="false">(-20,16,12)</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q3. Identify the translation vector v which transforms point A (1,1,5) to point B (-11,13,-7).</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">(12,-12,12)</choice>
+      <choice correct="false">(-12,12,12)</choice>
+      <choice correct="false">(-12,12,-12)</choice>
+      <choice correct="false">(-12,-12,-12)</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q4. If the Origin is at (0,0,0) then a translation of (2,5,-4) translates the origin to:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">(2,5,-4)</choice>
+      <choice correct="false">(2,5,4)</choice>
+      <choice correct="false">(-2,5,4)</choice>
+      <choice correct="false">(-2,-5,4)</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

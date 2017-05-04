@@ -1,43 +1,38 @@
 <problem display_name="Multiple Choice" markdown="Q.&#9;Digital signature can’t provide ______ for the message&#10;&#10;( )    Integrity&#10;( )    Confidentiality&#10;( )    Non repudiation&#10;( )    Authentication&#10;&#10;Q.  Digital signature uses ______ for generating valid signature&#10;&#10;( )    Private key&#10;( )    Public key&#10;( )    Secret key&#10;( )    None of the above&#10;&#10;Q.&#9;Verification Algorithm uses ______ for validating digital signature&#10;&#10;( )    Private key&#10;( )    Public key&#10;( )    Secret key&#10;( )    None of the above&#10;&#10;Q.  Is digital signature scheme possible without public key cryptography&#10;&#10;( )    Yes&#10;( )    No&#10;( )    May be exist&#10;( )    None of the above">
-<p>Q.	Digital signature can’t provide ______ for the message</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Integrity</choice>
-    <choice correct="false">Confidentiality</choice>
-    <choice correct="false">Non repudiation</choice>
-    <choice correct="false">Authentication</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q.  Digital signature uses ______ for generating valid signature</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Private key</choice>
-    <choice correct="false">Public key</choice>
-    <choice correct="false">Secret key</choice>
-    <choice correct="false">None of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q.	Verification Algorithm uses ______ for validating digital signature</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Private key</choice>
-    <choice correct="false">Public key</choice>
-    <choice correct="false">Secret key</choice>
-    <choice correct="false">None of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q.  Is digital signature scheme possible without public key cryptography</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Yes</choice>
-    <choice correct="false">No</choice>
-    <choice correct="false">May be exist</choice>
-    <choice correct="false">None of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Q.	Digital signature can’t provide ______ for the message</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Integrity</choice>
+      <choice correct="false">Confidentiality</choice>
+      <choice correct="false">Non repudiation</choice>
+      <choice correct="false">Authentication</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q.  Digital signature uses ______ for generating valid signature</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Private key</choice>
+      <choice correct="false">Public key</choice>
+      <choice correct="false">Secret key</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q.	Verification Algorithm uses ______ for validating digital signature</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Private key</choice>
+      <choice correct="false">Public key</choice>
+      <choice correct="false">Secret key</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q.  Is digital signature scheme possible without public key cryptography</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Yes</choice>
+      <choice correct="false">No</choice>
+      <choice correct="false">May be exist</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

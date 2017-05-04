@@ -1,0 +1,27 @@
+<problem display_name="Multiple Choice" markdown="1. Which of the following conditions should hold for a line to completely be inside the clip window (code for end point 1 is c1 and for end point 2 is c2) :&#10;( ) c1 OR c2 = 0&#10;( ) c1 AND c2 = 0&#10;( ) c1 EXOR c2 = 1&#10;( ) c1 OR c2 = 1&#10;2. Which of the following conditions should hold for a line to be trivially rejected (code for end point 1 is c1 and for end point 2 is c2) :&#10;( ) c1 AND c2 = 0&#10;( ) c1 AND c2 != 0&#10;( ) c1 OR c2 != 1&#10;( ) c1 AND c2 = 1&#10;3. Do you think the same algorithm will work if the clip window is concave?&#10;( ) Yes&#10;( ) No&#10;&#10;">
+  <p>1. Which of the following conditions should hold for a line to completely be inside the clip window (code for end point 1 is c1 and for end point 2 is c2) :</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">c1 OR c2 = 0</choice>
+      <choice correct="false">c1 AND c2 = 0</choice>
+      <choice correct="false">c1 EXOR c2 = 1</choice>
+      <choice correct="false">c1 OR c2 = 1</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. Which of the following conditions should hold for a line to be trivially rejected (code for end point 1 is c1 and for end point 2 is c2) :</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">c1 AND c2 = 0</choice>
+      <choice correct="false">c1 AND c2 != 0</choice>
+      <choice correct="false">c1 OR c2 != 1</choice>
+      <choice correct="false">c1 AND c2 = 1</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. Do you think the same algorithm will work if the clip window is concave?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Yes</choice>
+      <choice correct="false">No</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

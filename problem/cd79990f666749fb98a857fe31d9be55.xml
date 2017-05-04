@@ -1,0 +1,29 @@
+<problem display_name="Multiple Choice" markdown="Q1. Which of the following describes the transformation shown on the right ?&#10;( ) 90° clockwise Rotation&#10;(x) 180° clockwise Rotation&#10;( ) 90° counter-clockwise Rotation&#10;( ) 270° counter-clockwise Rotation&#10;&#10;Q2. If the following operations are applied in order, then what is the composite matrix ? Translation T1 followed by Translation T2, followed Rotation R1, Scale S1, Scale S2 and Rotation R2&#10;(x) T1T2R1S1S2R2&#10;( ) T1R1S1R2&#10;( ) R2S2S1R1T2T1&#10;( ) R2S2R1T2T1&#10;&#10;Q3. Is S1T1S2T2 = T2S2T1S1 ?&#10;( ) True&#10;( ) False&#10;(x) Valid&#10;( ) Not Valid&#10;&#10;">
+  <p>Q1. Which of the following describes the transformation shown on the right ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">90° clockwise Rotation</choice>
+      <choice correct="true">180° clockwise Rotation</choice>
+      <choice correct="false">90° counter-clockwise Rotation</choice>
+      <choice correct="false">270° counter-clockwise Rotation</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q2. If the following operations are applied in order, then what is the composite matrix ? Translation T1 followed by Translation T2, followed Rotation R1, Scale S1, Scale S2 and Rotation R2</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">T1T2R1S1S2R2</choice>
+      <choice correct="false">T1R1S1R2</choice>
+      <choice correct="false">R2S2S1R1T2T1</choice>
+      <choice correct="false">R2S2R1T2T1</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q3. Is S1T1S2T2 = T2S2T1S1 ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="false">False</choice>
+      <choice correct="true">Valid</choice>
+      <choice correct="false">Not Valid</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

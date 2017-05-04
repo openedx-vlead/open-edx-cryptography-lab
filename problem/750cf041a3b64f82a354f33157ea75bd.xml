@@ -1,0 +1,38 @@
+<problem display_name="Multiple Choice" markdown="Q1. The point (5,2,8) after applying the following scaling matrix becomes:&#10;( ) (10,3,40)&#10;( ) (10,2,4)&#10;( ) (2.5,3,4)&#10;( ) (10,3,4)&#10;&#10;Q2. Applying a scaling transformation of 2 on X-axis makes the unit distance:&#10;( ) 1/4 of the original unit distance.&#10;( ) 1/2 of the original unit distance.&#10;( ) Same as the original unit distance.&#10;( ) Twice the original unit distance.&#10;&#10;Q3. What is the scaling vector v if A(5,4,1) gets scaled to (2.5,6,5) ?&#10;( ) [0.5, 1.5, 5]&#10;( ) [2, 3, 5]&#10;( ) [2.5, 3, 5]&#10;( ) [2.5, 1.5, 5]&#10;&#10;Q4. What is the scaling vector v if A(2,3,4) gets transformed to B(2,3,4) ?&#10;( ) [1, 0, 0]&#10;( ) [0, 0, 0]&#10;( ) [1, 1, 1]&#10;( ) [1, 1, 0]&#10;&#10;">
+  <p>Q1. The point (5,2,8) after applying the following scaling matrix becomes:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">(10,3,40)</choice>
+      <choice correct="false">(10,2,4)</choice>
+      <choice correct="false">(2.5,3,4)</choice>
+      <choice correct="false">(10,3,4)</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q2. Applying a scaling transformation of 2 on X-axis makes the unit distance:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1/4 of the original unit distance.</choice>
+      <choice correct="false">1/2 of the original unit distance.</choice>
+      <choice correct="false">Same as the original unit distance.</choice>
+      <choice correct="false">Twice the original unit distance.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q3. What is the scaling vector v if A(5,4,1) gets scaled to (2.5,6,5) ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">[0.5, 1.5, 5]</choice>
+      <choice correct="false">[2, 3, 5]</choice>
+      <choice correct="false">[2.5, 3, 5]</choice>
+      <choice correct="false">[2.5, 1.5, 5]</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q4. What is the scaling vector v if A(2,3,4) gets transformed to B(2,3,4) ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">[1, 0, 0]</choice>
+      <choice correct="false">[0, 0, 0]</choice>
+      <choice correct="false">[1, 1, 1]</choice>
+      <choice correct="false">[1, 1, 0]</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

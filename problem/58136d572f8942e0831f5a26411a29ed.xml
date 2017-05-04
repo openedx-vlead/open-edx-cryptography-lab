@@ -1,0 +1,29 @@
+<problem display_name="Multiple Choice" markdown="Q1. The Sutherland Hodgeman works for the following cases :&#10;&#10;( ) Convex Polygon with convex clip window&#10;( ) Concave polygon with convex clip window&#10;( ) Convex polygon with concave clip window&#10;( ) a and b&#10;( ) a and c&#10;( ) All of the above&#10;&#10;Q2. Will the output matter on the order in which we process the polygon?&#10;&#10;( ) Yes&#10;( ) No&#10;&#10;Q3. Let m be the slope of the line joining clip polygon point Pi(x1, y1) and Pi+1(x2, y2). The &#9;&#9;&#9;intersection point of this line with the Left side of clip window is :&#10;&#10;( ) x = xmin; y = (int)(y2 + ((xmin - x2)*m));&#10;( ) x = xmax; y = (int)(y2 + ((xmax - x2)*m));&#10;( ) x = x2; y = ymin;&#10;( ) x = (int) (x2 + ((ymax - y2)/m)); y = ymax;&#10;&#10;">
+  <p>Q1. The Sutherland Hodgeman works for the following cases :</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Convex Polygon with convex clip window</choice>
+      <choice correct="false">Concave polygon with convex clip window</choice>
+      <choice correct="false">Convex polygon with concave clip window</choice>
+      <choice correct="false">a and b</choice>
+      <choice correct="false">a and c</choice>
+      <choice correct="false">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q2. Will the output matter on the order in which we process the polygon?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Yes</choice>
+      <choice correct="false">No</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q3. Let m be the slope of the line joining clip polygon point Pi(x1, y1) and Pi+1(x2, y2). The 			intersection point of this line with the Left side of clip window is :</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">x = xmin; y = (int)(y2 + ((xmin - x2)*m));</choice>
+      <choice correct="false">x = xmax; y = (int)(y2 + ((xmax - x2)*m));</choice>
+      <choice correct="false">x = x2; y = ymin;</choice>
+      <choice correct="false">x = (int) (x2 + ((ymax - y2)/m)); y = ymax;</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>
