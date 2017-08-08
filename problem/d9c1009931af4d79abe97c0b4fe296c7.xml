@@ -1,43 +1,38 @@
 <problem display_name="Multiple Choice" markdown="Q.   101 4,800,000,023 mod 35.&#10;  &#10;( )   36&#10;( )    9&#10;( )   26&#10;( )   17&#10;&#10;Q.   Which among these is a generator of Z*13&#10;&#10;( )   3&#10;( )   4&#10;( )   7&#10;( )   2&#10;&#10;Q.   The set of quadratic residues modulo 211 has cardinality of&#10;&#10;( )   210&#10;( )   106&#10;( )   212&#10;( )   105&#10;&#10;Q.   N=90 then Ø(n) =? Where Ø(n) is the number of elements co-prime to ‘n’ [Ø(n) is &#9;&#9; also called Euler Totient function]&#10; &#10;( )   8&#10;( )   24&#10;( )   48&#10;( )   14&#10;">
-<p>Q.   101 4,800,000,023 mod 35.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">36</choice>
-    <choice correct="false">9</choice>
-    <choice correct="false">26</choice>
-    <choice correct="false">17</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q.   Which among these is a generator of Z*13</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">3</choice>
-    <choice correct="false">4</choice>
-    <choice correct="false">7</choice>
-    <choice correct="false">2</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q.   The set of quadratic residues modulo 211 has cardinality of</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">210</choice>
-    <choice correct="false">106</choice>
-    <choice correct="false">212</choice>
-    <choice correct="false">105</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q.   N=90 then Ø(n) =? Where Ø(n) is the number of elements co-prime to ‘n’ [Ø(n) is 		 also called Euler Totient function]</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">8</choice>
-    <choice correct="false">24</choice>
-    <choice correct="false">48</choice>
-    <choice correct="false">14</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>Q.   101 4,800,000,023 mod 35.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">36</choice>
+      <choice correct="false">9</choice>
+      <choice correct="false">26</choice>
+      <choice correct="false">17</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q.   Which among these is a generator of Z*13</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">3</choice>
+      <choice correct="false">4</choice>
+      <choice correct="false">7</choice>
+      <choice correct="false">2</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q.   The set of quadratic residues modulo 211 has cardinality of</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">210</choice>
+      <choice correct="false">106</choice>
+      <choice correct="false">212</choice>
+      <choice correct="false">105</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q.   N=90 then Ø(n) =? Where Ø(n) is the number of elements co-prime to ‘n’ [Ø(n) is 		 also called Euler Totient function]</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">8</choice>
+      <choice correct="false">24</choice>
+      <choice correct="false">48</choice>
+      <choice correct="false">14</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
