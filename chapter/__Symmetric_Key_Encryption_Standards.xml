@@ -1,11 +1,11 @@
 <chapter display_name="Symmetric Key Encryption Standards (AES)">
   <sequential url_name="__Symmetric_Key_Encryption_Standards_Introduction"/>
-  <sequential url_name="__Symmetric_Key_Encryption_Standards_Theory"/>
   <sequential url_name="__Symmetric_Key_Encryption_Standards_Objective"/>
-  <sequential url_name="__Symmetric_Key_Encryption_Standards_Experiment"/>
+  <sequential url_name="__Symmetric_Key_Encryption_Standards_Theory"/>
   <sequential url_name="__Symmetric_Key_Encryption_Standards_Manual"/>
-  <sequential url_name="__Symmetric_Key_Encryption_Standards_Quizzes"/>
   <sequential url_name="__Symmetric_Key_Encryption_Standards_Procedure"/>
+  <sequential url_name="__Symmetric_Key_Encryption_Standards_Experiment"/>
+  <sequential url_name="__Symmetric_Key_Encryption_Standards_Quizzes"/>
   <sequential url_name="__Symmetric_Key_Encryption_Standards_FurtherReadings"/>
   <sequential url_name="b82c4115870641e0a9f72fc1092e87ef"/>
 </chapter>
